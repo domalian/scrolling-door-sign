@@ -4,7 +4,7 @@ A finite state machine was designed for a scrolling door sign that displayed 'AL
 
 ## State Diagram
 
-![](img/state-diagram.png)
+![](img/state-diagram.jpg)
 
 ## 'ALOHA' and 'PAU' Truth Table
 
